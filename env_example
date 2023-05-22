@@ -1,0 +1,25 @@
+PORT=4000
+NODE_ENV=dev
+PASSPHRASE=freedom.does.not.come.free
+
+WEB3_STORAGE_TOKEN=PlaceYourOwnTokenHereooooooooooorrio.eyJzdWIiiiiiiieeeeeocjoweDgyMDA0MDlFODgxQzg0ZTVlYTk1YWVCYzY3NTRGYTFGMDJCYjM2RWYiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2NTgyMDMwNzA3OTUsIm5hbbbiOiJ0dW11bHVzIn0.0oArd9wrc6UIMoB1wTPCaaaaaOD-BHeRYAHODPDekwY
+
+
+RPC_URL=http://testnet.tumulus.io
+RPC_WS_URL=ws://testnet.tumulus.io
+TUMULUS_TREASURY_ADDRESS=0xAAAAFb5B9DD69d71Fa11Bc4D3Cef480834636929
+TUMULUS_TREASURY_KEY=0xBBBB00ba7f85d637938a9694c236ede953ae11233fcec5981e1ceceb36099776
+CONTRACT_ADDRESS=0x65DdAC467EdA75A68d74729F01F54b2f3b43a9dA
+
+SALT=freedom.does.not.come.free
+SECRET=beat.the.tyranny-regime
+DATABASE={"host":"api.tumulus.io","port":3306,"database":"tumulus-api","user":"script","password":"freedom"}
+
+TUMULUS_PUBLIC_KEY_FILE=env/public.pem
+TUMULUS_PRIVATE_KEY_FILE=env/private.pem
+TUMULUS_PRIVATE_KEY_PASSPHRASE=
+
+EMAIL_PROVIDER=gmail
+EMAIL_ACCOUNT=changeMe@gmail.com
+EMAIL_PASSWORD=stay.hungry
+EMAIL_FROM=Tumulus changeMe@gmail.com
